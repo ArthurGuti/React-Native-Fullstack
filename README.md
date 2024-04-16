@@ -45,7 +45,7 @@ React Native:
 # 🧑‍💻Author
 <a href="https://github.com/ArthurGuti/">
 <div style="border-radius: 25%;">
-  <img src="https://avatars.githubusercontent.com/u/131212175?s=400&u=ad1122209b601713ba611d911af19ade07d17c6f&v=4" width="100px" alt="Imagem perfil Arthur Gutierrez"/>
+  <img src="https://github.com/ArthurGuti/React-Native-Fullstack/assets/131212175/c700239d-1d33-4e41-a4cb-2ccd2baf468b" width="100px" style="border-radius: 50%" alt="Imagem perfil Arthur Gutierrez"/>
 </div>
  <br/>
  <sub><b>Arthur Gutierrez</b></sub>
