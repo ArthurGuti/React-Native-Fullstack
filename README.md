@@ -16,48 +16,31 @@
 # ✅Features
 
 - [x] ReactNative install
-- [x] Identification and treatment of missing and inconsistent values
-- [x] Selection of the most relevant variables for score analysis
-- [x] Standardization and normalization of data
-- [x] Training of 2 distinct machine learning models
-- [x] Evaluation and comparison of accuracy metrics
-- [x] Presentation of results in a clear and concise manner
+- [x] Configuration prerequisites
+- [x] Follow classes daily
+- [x] Project Styling
 
 # ✨Prerequisites
 
-## Installing Python is required
+## Installing React Native is required
 
-## Install pandas
-$ pip install pandas 
+## Install expo 
+$ npm i expo
 
-## Install plotly
-$ pip install plotly
+## Install tailwind
+$ npm i tailwindcss
 
 # 🛠Technologies
 
 The following tools were used in the construction of the project:
 
-- [Python](https://pt-br.reactjs.org/](https://www.python.org/doc/))
-- [Jupyter Notebook](https://nodejs.org/en/](https://docs.jupyter.org/en/latest/install/notebook-classic.html))
-- [MongoDB](https://nodejs.org/en/](https://www.mongodb.com/))
-- [Pandas](https://nodejs.org/en/](https://www.mongodb.com/)](https://www.prisma.io/docs/orm/prisma-client)](https://pandas.pydata.org/docs/))
-- [Ploty](https://nodejs.org/en/](https://www.mongodb.com/)](https://fastify.dev/docs/latest/)](https://plotly.com/python-api-reference/))
-- [Decision Tree Template](https://scikit-learn.org/stable/modules/tree.html)
-- [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-
+- [ReactNative](https://reactnative.dev/docs/environment-setup)
+- [TailwindCss](https://v2.tailwindcss.com/docs)
+- [Node.js](https://nodejs.org/docs/latest/api/)
+  
 # 📝Learn-More
-Árvore de Decisão (Decision Tree):
-- Divides the data space into regions based on questions about attributes.
-- Classifies new instances by following the branches of the tree.
-- Advantages: Easy to interpret, efficient to train.
-- Disadvantages: Prone to overfitting, can be sensitive to small changes in the data.
-
-Floresta Aleatória (Random Forest):
-- Combines multiple decision trees to improve generalization and reduce overfitting.
-- Trains each decision tree on a random subset of features and data.
-- Classifies new instances by majority vote among the trees.
-- Advantages: Usually more robust than individual decision trees, good performance in various tasks.
-- Disadvantages: Can be computationally expensive to train, interpretability is reduced compared to decision trees.
+React Native:
+- React Native is an efficient tool for quickly developing cross-platform mobile apps. If you aim to develop mobile apps with JavaScript and React, consider React Native as a great option
 
 # 🧑‍💻Author
 <a href="https://github.com/ArthurGuti/">
